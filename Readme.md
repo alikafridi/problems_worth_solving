@@ -38,9 +38,8 @@
 #####Develop Carbon Sequestration Methods
 "_Engineers are working on ways to capture and store excess carbon dioxide to prevent global warming._"
 
-#####Engineer the Tools of Scientific Discover
+#####Engineer the Tools of Scientific Discovery
 "_In the century ahead, engineers will continue to be partners with scientists in the great quest for understanding many unanswered questions of nature._"
-
 
 
 ####Others:
@@ -53,3 +52,4 @@
 #####Future of labor and income
 #####Provide financial literacy to the masses
 #####Advancing technology adoption in underserved regions or communities
+#####Reintegrating people after prison sentences
