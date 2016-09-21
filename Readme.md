@@ -59,3 +59,4 @@
 #####Deal with problems that arise from increased life expectancy. Ex. Reduced # of jobs, increased food necessities, less physical space, etc.
 #####Ending discrimination against any group of people
 #####Predicting natural disasters. Also building ways to prevent damage from them and reacting faster to help with aid
+#####Increase human productivity by reducing time we spend on mindless tasks or doing nothing. (Potential areas: waiting in lines, wasting time doing things that could be automated, traveling, sleeping)
