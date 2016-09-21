@@ -57,3 +57,5 @@
 #####Solve issues that are major causes for deaths for humans
 #####Improve the quality of life for older adults
 #####Deal with problems that arise from increased life expectancy. Ex. Reduced # of jobs, increased food necessities, less physical space, etc.
+#####Ending discrimination against any group of people
+#####Predicting natural disasters. Also building ways to prevent damage from them and reacting faster to help with aid
