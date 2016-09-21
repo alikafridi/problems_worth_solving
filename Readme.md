@@ -53,3 +53,7 @@
 #####Provide financial literacy to the masses
 #####Advancing technology adoption in underserved regions or communities
 #####Reintegrating people after prison sentences
+#####Make health treatments affordable for everyone
+#####Solve issues that are major causes for deaths for humans
+#####Improve the quality of life for older adults
+#####Deal with problems that arise from increased life expectancy. Ex. Reduced # of jobs, increased food necessities, less physical space, etc.
