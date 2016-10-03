@@ -61,3 +61,5 @@
 #####Predicting natural disasters. Also building ways to prevent damage from them and reacting faster to help with aid
 #####Increase human productivity by reducing time we spend on mindless tasks or doing nothing. (Potential areas: waiting in lines, wasting time doing things that could be automated, traveling, sleeping)
 #####Allow anyone to build and launch a startup/product/business without needing to spend a lot of time learning coding/marketing/sales/etc.
+#####Helping people with mental health problems
+#####Negotiate + Fix International relations issues
