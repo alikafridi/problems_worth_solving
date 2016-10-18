@@ -63,3 +63,4 @@
 #####Allow anyone to build and launch a startup/product/business without needing to spend a lot of time learning coding/marketing/sales/etc.
 #####Helping people with mental health problems
 #####Negotiate + Fix International relations issues
+#####Equal opportunity no matter where you were born --> Family condition shouldn't be a hindrance to success
